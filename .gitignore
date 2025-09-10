@@ -1,0 +1,11 @@
+# Bỏ qua virtual environment
+venv/
+
+# Bỏ qua file Python biên dịch
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bỏ qua cấu hình riêng
+.env
